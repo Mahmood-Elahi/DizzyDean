@@ -1,9 +1,9 @@
-package DizzyDeanAssignment;
+package DizzyDean;
 
 import java.util.Scanner;
 import java.util.Random;
 
-public class DizzyDeanAssignment {
+public class DizzyDean {
 
 	public static void main(String[] args) {
 //		// Part 1
